@@ -1,33 +1,8 @@
                                                                                                                                                                                                                                                                
 Delivered-To: stephaniefennell708@gmail.com
 Received: by 10.76.176.10 with SMTP id ce10csp10082226oac;
-        Sun, 3 Jan 2016 20:24:02 -0800 (PST)
-X-Received: by 10.28.3.133 with SMTP id 127mr102290187wmd.101.1451881442539;
-        Sun, 03 Jan 2016 20:24:02 -0800 (PST)
-Return-Path: <notification+kr4kwqyyrrmx@facebookmail.com>
-Received: from mx-out.facebook.com (66-220-155-151.outmail.facebook.com. [66.220.155.151])
-        by mx.google.com with ESMTPS id bx2si130458251wjc.87.2016.01.03.20.24.01
-        for <stephaniefennell708@gmail.com>
-        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
-        Sun, 03 Jan 2016 20:24:02 -0800 (PST)
-Received-SPF: pass (google.com: domain of notification+kr4kwqyyrrmx@facebookmail.com designates 66.220.155.151 as permitted sender) client-ip=66.220.155.151;
-Authentication-Results: mx.google.com;
-       spf=pass (google.com: domain of notification+kr4kwqyyrrmx@facebookmail.com designates 66.220.155.151 as permitted sender) smtp.mailfrom=notification+kr4kwqyyrrmx@facebookmail.com;
-       dkim=pass header.i=@facebookmail.com;
-       dmarc=pass (p=REJECT dis=NONE) header.from=facebookmail.com
-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
-	s=s1024-2013-q3; t=1451864796;
-	bh=nsIGpLqm/YSNVnuCCRtBfoKo1HQmafz3Mcl0rYLQ97s=;
-	h=Date:To:Subject:From:MIME-Version:Content-Type;
-	b=iB0JMXhzXt/L40XeVSmMX6LJ8huhgpUI1o+DDB9wGpOf42lFBNH7J0hVTey+0zbEL
-	 HOxTBBncCTGZbBfuYv6Q8oln3Fx/rwcoiegZ3unrZSq6q26yXQBp7atTaZT1QkEyLF
-	 EYI1AiqWrnM/4pNRHwYXIb0e/hbQcjWveyHIJStw=
-Received: from facebook.com (Sm1NhF/mCDpd+J3MMLk34toBe5AfghWjzQspICnlGWpKs6hiEVQ1EwW67POwwM78 2401:db00:2030:703b:face:0000:0033:0000)
- by facebook.com with Thrift id 3a41dd52b27411e585d4edbe7a353a40-d19fc1f0;
- Sun, 03 Jan 2016 15:46:36 -0800
-X-Facebook: from 2401:db00:1010:7056:face:0:3:0 ([MTI3LjAuMC4x]) 
-	by async.facebook.com with HTTP (ZuckMail);
-Date: Sun, 3 Jan 2016 15:46:36 -0800
+
+
 To: Kenny Berrian <stephaniefennell708@gmail.com>
 Subject: Caitlin Collier confirmed your Facebook friend request
 X-Priority: 3
